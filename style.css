@@ -1,14 +1,25 @@
-/* comment */
-
-body{background-color:#EAE0CC ;}
-h2{color: #513123;}
-
-#main-title{color:#4D6A6D ;}
-
-img{width: 200px;}
-h1{color: #4D6A6D;}
-
-footer{color: #593c8f;}
-.whatsapp-image{
-    width: 30px;
+body {
+  background-color: #e9eaec;
+  text-align: center;
+}
+img {
+  margin: 10px;
+  border-radius: 10px;
+}
+button {
+  width: 450px;
+  border: none;
+}
+.emtiaz {
+  padding-bottom: 0px;
+  margin: 0px;
+}
+.w3-table {
+  text-align: center;
+}
+table {
+  text-align: center;
+}
+.tables {
+  align-items: center;
 }
